@@ -5,4 +5,5 @@
 - VGG19 [code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg19.py) [model](https://github.com/machrisaa/tensorflow-vgg)
 - InceptionV3 [code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_inceptionV3_tfslim.py) [model](https://github.com/tensorflow/models/tree/master/research/slim)
 - SqueezeNet [code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_squeezenet.py) [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/squeezenet.npz)
+- MobileNet [code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_mobilenet.py) [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/mobilenet.npz)
 - SRGAN [code](https://github.com/tensorlayer/srgan) [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz)
