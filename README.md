@@ -31,7 +31,7 @@ Discussion for network architecture that can be easily use [here](https://github
 [NASNet-A_Mobile_224](https://arxiv.org/abs/1707.07012)#||[nasnet-a_mobile_04_10_2017.tar.gz](https://storage.googleapis.com/download.tensorflow.org/models/nasnet-a_mobile_04_10_2017.tar.gz)|74.0|91.6|
 [NASNet-A_Large_331](https://arxiv.org/abs/1707.07012)#||[nasnet-a_large_04_10_2017.tar.gz](https://storage.googleapis.com/download.tensorflow.org/models/nasnet-a_large_04_10_2017.tar.gz)|82.7|96.2|
 [PNASNet-5_Large_331](https://arxiv.org/abs/1712.00559)||[pnasnet-5_large_2017_12_13.tar.gz](https://storage.googleapis.com/download.tensorflow.org/models/pnasnet-5_large_2017_12_13.tar.gz)|82.9|96.2|
-|DenseNet|||||
+|[DenseNet](https://arxiv.org/abs/1608.06993)|||||
 |NASNet|||||
 
 
