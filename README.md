@@ -1,8 +1,10 @@
 # Some Pretrained Models for TensorLayer
 
-Feel free to add more.
+Feel free to add more. 
 
 ## CNN for ImageNet
+
+Discussion for network architecture that can be easily use [here](https://github.com/tensorlayer/tensorlayer/issues/367).
 
 |             	| Code      	| Model      	|   Top-1 Accuracy | Top-5 Accuracy  |
 |-------------	|------------	|------------	|----------------- |-----------------|
