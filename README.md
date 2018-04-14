@@ -6,7 +6,7 @@ Feel free to add more.
 
 Discussion for network architecture that can be easily use [here](https://github.com/tensorlayer/tensorlayer/issues/367).
 
-|             	| Code      	| Model      	|   Top-1 Accuracy | Top-5 Accuracy  |
+|Model        	| Code      	| Parameter   |   Top-1 Accuracy | Top-5 Accuracy  |
 |-------------	|------------	|------------	|----------------- |-----------------|
 |[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|[code1](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg16.py) [code2](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_models_vgg16.py)|[model](http://www.cs.toronto.edu/~frossard/post/vgg16/)|71.5|89.8|
 |[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|[code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg19.py)|[model](https://github.com/machrisaa/tensorflow-vgg)|71.1|89.8|
