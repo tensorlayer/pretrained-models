@@ -37,7 +37,7 @@ Discussion for network architecture that can be easily use [here](https://github
 
 ## Others
 
-|             	| Code      	| Model      	|   Description   |
+|Model        	| Code      	| Parameter  	|   Description   |
 |-------------	|------------	|------------	|-----------------|
 | SRGAN | [code](https://github.com/tensorlayer/srgan) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz) | Super Resolution for Image |
 
