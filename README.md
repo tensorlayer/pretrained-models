@@ -4,7 +4,7 @@ Feel free to add more.
 
 ## CNN for ImageNet
 
-Discussion for network architecture that can be easily use [here](https://github.com/tensorlayer/tensorlayer/issues/367).
+Discussion for network architecture that can be easily use [here](https://github.com/tensorlayer/tensorlayer/issues/367), and the `tl.models` API description [here](http://tensorlayer.readthedocs.io/en/latest/modules/models.html).
 
 |Model        	| Code      	| Parameter   |   Top-1 Accuracy | Top-5 Accuracy  |
 |-------------	|------------	|------------	|----------------- |-----------------|
