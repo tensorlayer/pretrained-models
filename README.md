@@ -9,7 +9,7 @@ Discussion for network architecture that can be easily use [here](https://github
 |             	| Code      	| Model      	|   Top-1 Accuracy | Top-5 Accuracy  |
 |-------------	|------------	|------------	|----------------- |-----------------|
 |[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|[code1](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg16.py) [code2](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_models_vgg16.py)|[model](http://www.cs.toronto.edu/~frossard/post/vgg16/)|71.5|89.8|
-|[VGG19](http://arxiv.org/abs/1409.1556.pdf)|[code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg19.py)|[model](https://github.com/machrisaa/tensorflow-vgg)|71.1|89.8|
+|[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|[code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_vgg19.py)|[model](https://github.com/machrisaa/tensorflow-vgg)|71.1|89.8|
 |[ResNet V1 50](https://arxiv.org/abs/1512.03385)| | |75.2|92.2|
 |[ResNet V1 101](https://arxiv.org/abs/1512.03385)||[resnet_v1_101_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz)|76.4|92.9|
 [ResNet V1 152](https://arxiv.org/abs/1512.03385)||[resnet_v1_152_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_152_2016_08_28.tar.gz)|76.8|93.2|
