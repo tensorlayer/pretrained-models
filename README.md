@@ -1,6 +1,8 @@
 # Some pretrained-models for TensorLayer
 
-- More Examples in [github](https://github.com/topics/tensorlayer) and [docs](http://tensorlayer.readthedocs.io/en/latest/user/example.html)
+Feel free to add more.
+
+## CNN
 
 |             	| Code      	| Model      	|   Top-1 Accuracy | Top-5 Accuracy  |
 |-------------	|------------	|------------	|----------------- |-----------------|
@@ -17,11 +19,13 @@
 | NASNet-A_Large_331 | | | 82.7 | 96.2 |
 | PNASNet-5_Large_331 | | | 82.9 | 96.2 |
 
+## Others
 
 |             	| Code      	| Model      	|   Description   |
 |-------------	|------------	|------------	|-----------------|
 | SRGAN | [code](https://github.com/tensorlayer/srgan) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz) | Super Resolution for Image |
 
+- More Examples in [github](https://github.com/topics/tensorlayer) and [docs](http://tensorlayer.readthedocs.io/en/latest/user/example.html)
 - References
   - [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
   - [Keras](https://keras.io/applications/#applications)
