@@ -19,7 +19,7 @@ Discussion for network architecture that can be easily use [here](https://github
 [ResNet V2 200](https://arxiv.org/abs/1603.05027)||[TBA]()|79.9\*|95.2\*|
 [Inception V1](http://arxiv.org/abs/1409.4842v1)||[inception_v1_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v1_2016_08_28.tar.gz)|69.8|89.6|
 [Inception V2](http://arxiv.org/abs/1502.03167)||[inception_v2_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v2_2016_08_28.tar.gz)|73.9|91.8|
-|[Inception V3](http://arxiv.org/abs/1512.00567)|[code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_inceptionV3_tfslim.py)|[model](https://github.com/tensorflow/models/tree/master/research/slim)|78.0|93.9| 
+|[Inception V3](http://arxiv.org/abs/1512.00567)|[code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_inceptionV3_tfslim.py)|[inception_v3_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz)|78.0|93.9| 
 |[Inception V4](http://arxiv.org/abs/1602.07261)| | |80.2|95.2|
 |[Xception](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf)|||||
 |[Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)| | |80.4|95.3|
