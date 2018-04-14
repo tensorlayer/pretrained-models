@@ -9,4 +9,5 @@
 | InceptionV3 | [code](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_inceptionV3_tfslim.py) | [model](https://github.com/tensorflow/models/tree/master/research/slim) |
 | SqueezeNetV1 | [code1](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_squeezenet.py) [code2](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_models_squeezenetv1.py) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/squeezenet.npz) |
 | MobileNetV1 | [code1](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_mobilenet.py) [code2](https://github.com/tensorlayer/tensorlayer/blob/master/example/tutorial_models_mobilenetv1.py) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/mobilenet.npz) |
+| MobileNetV2 | | |
 | SRGAN | [code](https://github.com/tensorlayer/srgan) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz) |
