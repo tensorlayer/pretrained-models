@@ -1,4 +1,4 @@
-# Some pretrained-models for TensorLayer
+# Some Pretrained Models for TensorLayer
 
 Feel free to add more.
 
