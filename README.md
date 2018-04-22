@@ -42,6 +42,7 @@ The `tl.models` API description [here](http://tensorlayer.readthedocs.io/en/late
 | SRGAN | [code](https://github.com/tensorlayer/srgan) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz) | Super Resolution for Image |
 
 - More Examples in [github](https://github.com/topics/tensorlayer) and [docs](http://tensorlayer.readthedocs.io/en/latest/user/example.html)
-- References
-  - [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
-  - [Keras](https://keras.io/applications/#applications)
+
+## References
+- [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
+- [Keras](https://keras.io/applications/#applications)
