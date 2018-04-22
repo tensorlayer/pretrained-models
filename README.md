@@ -40,6 +40,10 @@ The `tl.models` API description [here](http://tensorlayer.readthedocs.io/en/late
 |Model        	| Code      	| Parameter  	|   Description   |
 |-------------	|------------	|------------	|-----------------|
 | SRGAN | [code](https://github.com/tensorlayer/srgan) | [model](https://github.com/tensorlayer/pretrained-models/blob/master/models/g_srgan.npz) | Super Resolution for Image |
+| YOLO3 for VOC | | | |
+| YOLO3 for COCO | | | |
+| OpenPose for MPII | | | |
+| OpenPose for COCO | | | |
 
 - More Examples in [github](https://github.com/topics/tensorlayer) and [docs](http://tensorlayer.readthedocs.io/en/latest/user/example.html)
 
