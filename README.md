@@ -2,6 +2,9 @@
 
 Feel free to add more.
 
+## Reinforcement Learning Examples
+`./rl_models/` contains pretrained models for each algorithm in [reinforcement learning examples](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning).
+
 ## CNN for ImageNet
 
 The `tl.models` API description [here](http://tensorlayer.readthedocs.io/en/latest/modules/models.html), and the discussion for network architecture that can be easily use [here](https://github.com/tensorlayer/tensorlayer/issues/367).
