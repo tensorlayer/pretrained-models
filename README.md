@@ -1,6 +1,6 @@
 # Some Pretrained Models for TensorLayer
 
-Feel free to add more.
+Feel free to add more.This repository is implemented with [**TensorLayer2.0+**](https://github.com/tensorlayer/tensorlayer).
 
 ## Reinforcement Learning Examples
 `./rl_models/` contains pretrained models for each algorithm in [reinforcement learning examples](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning).
